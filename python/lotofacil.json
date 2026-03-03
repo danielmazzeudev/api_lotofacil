@@ -123214,5 +123214,39 @@
         "is_accumulated": false,
         "accumulated_prize": 0.0,
         "estimated_next_prize": 2000000.0
+    },
+    {
+        "draw_number": 3625,
+        "draw_date": "02/03/2026",
+        "numbers": [
+            "01",
+            "04",
+            "08",
+            "09",
+            "10",
+            "13",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "21",
+            "23",
+            "24",
+            "25"
+        ],
+        "winners_15_numbers": 0,
+        "winners_14_numbers": 204,
+        "winners_13_numbers": 7910,
+        "winners_12_numbers": 106766,
+        "winners_11_numbers": 593527,
+        "prize_value_15_numbers": 0.0,
+        "prize_value_14_numbers": 1898.94,
+        "prize_value_13_numbers": 35.0,
+        "prize_value_12_numbers": 14.0,
+        "prize_value_11_numbers": 7.0,
+        "is_accumulated": true,
+        "accumulated_prize": 1847526.36,
+        "estimated_next_prize": 5500000.0
     }
 ]
