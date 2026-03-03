@@ -5,7 +5,7 @@ const path = require('path');
 
 const app = express();
 const PORT = 4001;
-const currentVersion = "1.0.0";
+const currentVersion = "4.0.0";
 
 app.use(cors());
 
