@@ -123282,5 +123282,39 @@
         "is_accumulated": true,
         "accumulated_prize": 4776822.05,
         "estimated_next_prize": 10000000.0
+    },
+    {
+        "draw_number": 3627,
+        "draw_date": "04/03/2026",
+        "numbers": [
+            "01",
+            "02",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "19",
+            "21"
+        ],
+        "winners_15_numbers": 5,
+        "winners_14_numbers": 481,
+        "winners_13_numbers": 15308,
+        "winners_12_numbers": 207077,
+        "winners_11_numbers": 1207986,
+        "prize_value_15_numbers": 1982105.68,
+        "prize_value_14_numbers": 2237.88,
+        "prize_value_13_numbers": 35.0,
+        "prize_value_12_numbers": 14.0,
+        "prize_value_11_numbers": 7.0,
+        "is_accumulated": false,
+        "accumulated_prize": 0.0,
+        "estimated_next_prize": 2000000.0
     }
 ]
