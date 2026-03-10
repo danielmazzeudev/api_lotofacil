@@ -123418,5 +123418,39 @@
         "is_accumulated": false,
         "accumulated_prize": 0.0,
         "estimated_next_prize": 2000000.0
+    },
+    {
+        "draw_number": 3631,
+        "draw_date": "09/03/2026",
+        "numbers": [
+            "04",
+            "07",
+            "08",
+            "09",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "19",
+            "20",
+            "21",
+            "23",
+            "25"
+        ],
+        "winners_15_numbers": 1,
+        "winners_14_numbers": 265,
+        "winners_13_numbers": 8952,
+        "winners_12_numbers": 114672,
+        "winners_11_numbers": 598933,
+        "prize_value_15_numbers": 1681287.48,
+        "prize_value_14_numbers": 1900.42,
+        "prize_value_13_numbers": 35.0,
+        "prize_value_12_numbers": 14.0,
+        "prize_value_11_numbers": 7.0,
+        "is_accumulated": false,
+        "accumulated_prize": 0.0,
+        "estimated_next_prize": 2000000.0
     }
 ]
