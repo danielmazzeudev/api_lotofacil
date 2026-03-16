@@ -10,7 +10,7 @@ const currentVersion = "4.0.0";
 app.use(cors());
 
 app.get('/', (req, res) => {
-    const filePath = path.join(__dirname, 'python/lotofacil.json');
+    const filePath = path.join(__dirname, 'lotofacil.json');
 
     fs.readFile(filePath, 'utf8', (err, data) => {
         if (err) {
